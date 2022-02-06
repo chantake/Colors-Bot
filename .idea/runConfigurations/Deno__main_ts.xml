@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Deno: main.ts" type="DenoConfigurationType" nameIsGenerated="true" inputPath="$PROJECT_DIR$/main.ts" programParameters="run --allow-env --allow-net --allow-read">
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
